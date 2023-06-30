@@ -1,0 +1,33 @@
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadType</key>
+        <string>com.apple.applicationaccess</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>allowFaceTime</key>
+        <false/>
+        <key>allowiMessage</key>
+        <false/>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Disable FaceTime and iMessage</string>
+    <key>PayloadDisplayName</key>
+    <string>Disable FaceTime and iMessage</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.disablefacetimeimessage</string>
+    <key>PayloadRemovalDisallowed</key>
+    <true/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>f9ce613a-bf36-4c3d-82f6-8d613e4f5d9a</string>
+    <key>PayloadOrganization</key>
+    <string>Your Organization</string>
+  </dict>
+</plist>
